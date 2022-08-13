@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FirstMovieSearchApp/static/css/main.334bdeb1.css",
+    "main.js": "/FirstMovieSearchApp/static/js/main.f47f8472.js",
+    "index.html": "/FirstMovieSearchApp/index.html",
+    "static/media/search.svg": "/FirstMovieSearchApp/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.334bdeb1.css.map": "/FirstMovieSearchApp/static/css/main.334bdeb1.css.map",
+    "main.f47f8472.js.map": "/FirstMovieSearchApp/static/js/main.f47f8472.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.f47f8472.js"
+  ]
+}
