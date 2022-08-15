@@ -6,7 +6,7 @@ import './App.css';
 import SearchIcon from './search.svg';
 
 //90625464 ->API key
-const API_URL = 'http://www.omdbapi.com?apikey=90625464'
+const API_URL = 'https://www.omdbapi.com?apikey=90625464'
 
 //This is a sample movie with the information the API provides
 const movie1 ={
